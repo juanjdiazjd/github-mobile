@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should list repo item component 1`] = `
+<View
+  className="sc-gsnTZi fluHiX"
+>
+  <View
+    className="sc-bczRLJ cBAjUe"
+  >
+    <View
+      className="sc-ftvSup kwnztX"
+    >
+      <View
+        className="sc-iBkjds kTwfzk"
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            Array [
+              Object {
+                "color": "#2b3137",
+                "fontSize": 40,
+              },
+              undefined,
+              Object {
+                "fontFamily": "Material Design Icons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          󰳏
+        </Text>
+        <Text
+          allowFontScaling={false}
+          className="sc-papXJ hYBQlm"
+          language=""
+          selectable={false}
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 18,
+              },
+              undefined,
+              Object {
+                "fontFamily": "Material Design Icons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          󰄯
+        </Text>
+      </View>
+      <View
+        className="sc-iBkjds kTwfzk"
+      >
+        <Text
+          className="sc-jSMfEi ieDDTt"
+          color="blue"
+        >
+          mamunozj/pepitogrillo...
+        </Text>
+        <Text
+          className="sc-jSMfEi grBzXQ"
+        />
+        <Text
+          className="sc-gKXOVf ipMpCq"
+        >
+          Updated 3 years ago
+        </Text>
+      </View>
+    </View>
+    <View
+      className="sc-dkzDqf UKxXH"
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Array [
+            Object {
+              "color": "#2b3137",
+              "fontSize": 14,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        󰓒
+        <Text
+          className="sc-hKMtZM XOjiu"
+        >
+          0
+        </Text>
+      </Text>
+      <Text
+        className="sc-hKMtZM XOjiu"
+      />
+    </View>
+  </View>
+</View>
+`;
